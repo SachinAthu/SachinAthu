@@ -92,8 +92,9 @@
 <br>
 
 <div style="display:flex;">
-    <p style="margin-right:15px;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sachinathu&show_icons=true&locale=en" alt="sachinathu" /></p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinathu&" alt="sachinathu" /></p>
+    <p style="margin-right:15px;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sachinathu&show_icons=true&locale=en" alt="sachinathu"      />
+    <!--- </p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinathu&" alt="sachinathu" /></p> --->
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinathu&show_icons=true&locale=en&layout=compact" alt="sachinathu" /></p>
