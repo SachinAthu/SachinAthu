@@ -4,8 +4,8 @@
 <br><br>
 
 - 👋 Hi, I’m @SachinAthu
-- 👀 Interested in Web development with React, Django and messing around with Linux stuff.
-- 🌱 Currently learning Machine Learning, Python, University crap and diving into Javascript.
+- 👀 Interested in Web development with React, Remix, Django and messing around with Linux stuff.
+- 🌱 Currently working on frontend development (Angular), University crap and diving into Javascript.
 - 📫 How to reach me [@sachinathu](www.linkedin.com/in/sachinathu)
 
 <br>
