@@ -75,6 +75,9 @@
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
     </a> 
+     <a href="https://nextjs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/> 
+    </a> 
     <a href="https://reactnative.dev/" target="_blank"> 
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> 
     </a> 
