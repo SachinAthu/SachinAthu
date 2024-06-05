@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin Athukorala</h1>
-<h3 align="center">Full Stack Developer && Linux Lover && University Student</h3>
+<h3 align="center">Full Stack Developer && Linux Lover</h3>
 
 <br><br>
 
 - 👋 Hi, I’m @SachinAthu
-- 👀 Interested in Web development with React, Remix, Django and messing around with Linux stuff.
-- 🌱 Currently working on frontend development (Angular), University crap and diving into Javascript.
+- 👀 Interested in Web development with React, Next.js, Remix, Django and messing around with Linux stuff.
+- 🌱 Currently working on frontend development (Next.js, React) and diving into Javascript.
 - 📫 How to reach me - www.linkedin.com/in/sachinathu
 
 <br>
