@@ -28,7 +28,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain-wordmark.svg" alt="django rest framework" width="30" height="30"/> 
     </a> 
     <a href="https://www.docker.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
@@ -83,9 +83,6 @@
     </a> 
     <a href="https://sass-lang.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
-    </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
     </a> 
 </p>
 
