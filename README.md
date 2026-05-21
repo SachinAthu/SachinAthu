@@ -4,8 +4,8 @@
 <br><br>
 
 - 👋 Hi, I’m @SachinAthu
-- 👀 Interested in Web development with React, Next.js, Remix, Django and messing around with Linux stuff.
-- 🌱 Currently working on frontend development (Next.js, React) and diving into Javascript.
+- 👀 Interested in Web development with React, Next.js, Astro, Django, and messing around with Linux stuff.
+- 🌱 Currently working on frontend development (Next.js, React) and diving into JavaScript and C++.
 - 📫 How to reach me - www.linkedin.com/in/sachinathu
 
 <br>
