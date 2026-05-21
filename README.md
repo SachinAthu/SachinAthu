@@ -20,10 +20,7 @@
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
-    </a> 
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
     </a> 
@@ -86,7 +83,10 @@
     </a> 
     <a href="https://sass-lang.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/> 
-    </a> 
+    </a>
+    <a href="https://astro.build/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="sass" width="30" height="30"/> 
+    </a>
 </p>
 
 <br>
@@ -98,11 +98,6 @@
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinathu&" alt="sachinathu" /></p>
 </div>
 -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinathu&show_icons=true&locale=en&layout=compact" alt="sachinathu" /></p>
-
-
-
 
 <!---
 SachinAthu/SachinAthu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
